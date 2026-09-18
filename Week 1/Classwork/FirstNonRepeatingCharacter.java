@@ -1,4 +1,3 @@
-```java
 import java.util.Scanner;
 
 public class FirstNonRepeatingCharacter {
@@ -40,4 +39,3 @@ public class FirstNonRepeatingCharacter {
         sc.close();
     }
 }
-```
